@@ -1,2 +1,10 @@
-# To-Do-List
-A Python To-Do List with add, view, mark complete and delete functionality using list of dictionaries for task management
+## To-Do List
+Built with Python.
+
+Features:
+- Add unlimited tasks
+- View all tasks with completion status
+- Mark tasks complete with checkbox display
+- Delete tasks with validation
+- Empty list protection
+- Built in 9th grade as eighth Python project
